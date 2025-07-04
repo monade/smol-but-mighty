@@ -1,6 +1,6 @@
 # Smol but Mighty: Addestra il tuo Mini Language Model
 
-## Contesto: Dai nel Mondo dell'AI
+## Introduzione
 
 Prima di iniziare, è utile capire dove si collocano i modelli linguistici all'interno del panorama dell'Intelligenza Artificiale.
 
