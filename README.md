@@ -1,4 +1,4 @@
-# Smol but Mighty: Fine-tuning di Small Language Models
+# Smol but Mighty: Addestra il tuo Mini Language Model
 
 Questo progetto nasce come workshop per la [Working Software 2025](https://www.agilemovement.it/workingsoftware/) a Reggio Emilia.
 
