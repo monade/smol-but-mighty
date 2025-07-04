@@ -9,7 +9,7 @@ Inoltre si mostra come preparare un modello per la distribuzione in GGUF e come 
 ## Introduzione
 Questo workshop è pensato per chi ha già familiarità con l'utilizzo di Python, conosce per sommi capi la teoria di base dietro al machine learning (Neural Networks e Backpropagation), ma non ha mai addestrato un modello.
 
-Per iniziare, trovi le slide e l'introduzione testuale presentata durante il workshop nella cartella [docs](./tree/main/docs).
+Per iniziare, trovi le slide e l'introduzione testuale presentata durante il workshop nella cartella [docs](./docs).
 
 ## Prerequisiti
 
@@ -26,7 +26,7 @@ Se preferisci eseguire i notebook localmente, puoi clonare questa repository e  
 | Sentiment Classification | Finetuning SFT per classificare il __sentiment__ di recensioni Amazon | [Colab](https://colab.research.google.com/github/monade/smol-but-mighty/blob/main/notebooks/01_sentiment_classification.ipynb) |
 | Function Calling | Finetuning con LoRA per addestrare un modello a invocare funzioni a partire da una richiesta testuale | [Colab](https://colab.research.google.com/github/monade/smol-but-mighty/blob/main/notebooks/02_function_calling.ipynb) |
 | GGUF Conversion | Conversione in GGUF di un modello già addestrato | [Colab](https://colab.research.google.com/github/monade/smol-but-mighty/blob/main/notebooks/03_gguf_conversion.ipynb) |
-| GGUF Serving | Un esempio su come servire un modello GGUF con FastAPI | [Progetto](./tree/main/code/gguf-model-api) |
+| GGUF Serving | Un esempio su come servire un modello GGUF con FastAPI | [Progetto](./code/gguf-model-api) |
 
 
 ## Credits
