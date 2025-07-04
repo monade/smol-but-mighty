@@ -38,6 +38,13 @@ Per funzionare, si avvalgono di alcuni componenti fondamentali:
 - **Tokenizer**: Suddivide il testo di input in unità più piccole chiamate "token" (parole, sotto-parole o caratteri).
 - **Word Embedding**: Converte ogni token in un vettore numerico. In questo "spazio degli embedding", parole con significato simile avranno vettori vicini.
 
+## Instruct Model
+
+Siamo abituati a parlare con modelli linguistici in maniera conversazionale.
+Questo è possibile utilizzando i modelli instruct. Un modello instruct è un modello su cui è stato fatto fine-tuning per rispondere a domande in un formato specifico.
+
+Per fare questo, si utilizza un dataset in cui ogni esempio è formattato secondo un chat template. Il chat template è un formato specifico che permette di formattare la domanda e la risposta in un modo che il modello possa comprendere una conversazione.
+
 ## Tecniche di Fine-Tuning
 
 ### 1. SFT (Supervised Fine-Tuning)
